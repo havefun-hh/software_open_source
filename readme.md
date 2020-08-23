@@ -1,6 +1,6 @@
-# 预测优化软件
+# 预测优化软件展示
 
-本软件由pyqt5和python开发而成，是无需安装的绿色软件，下载解压后点击exe可执行程序即可。目前的功能包括精度预测、相位优化及可视化。
+本软件使用 PyQt5 + python 开发而成，使用 pyinstaller 打包后的可执行文件见https://github.com/havefun-hh/software
 
 ## 1. 精度预测
 
