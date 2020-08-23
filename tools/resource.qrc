@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button.png</file>
+        <file>images/Bell.ico</file>
+        <file>images/predict.png</file>
+        <file>images/optimize.ico</file>
+        <file>images/clear.png</file>
+        <file>images/splash.jpg</file>
+        <file>images/new.ico</file>
+        <file>images/close.ico</file>
+        <file>images/close_all.ico</file>
+        <file>images/cascade.ico</file>
+        <file>images/tile.ico</file>
+        <file>images/info.ico</file>
+        <file>images/background1.jpg</file>
+        <file>images/frame1.jpg</file>
+        <file>images/frame2.jpg</file>
+        <file>images/groupbox1.jpg</file>
+        <file>images/groupbox2.jpg</file>
+        <file>images/groupbox3.jpg</file>
+        <file>images/clear_image_button.jpg</file>
+    </qresource>
+</RCC>
